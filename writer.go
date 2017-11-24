@@ -70,7 +70,7 @@ func (w *Writer) writeField(key, value string) error {
 }
 
 // WriteQuoted writes a key, value pair,
-// in whcih value is enclosed by
+// in which value is enclosed by
 // quotation marks.
 func (w *Writer) writeQuoted(key, value string) error {
 	var s string

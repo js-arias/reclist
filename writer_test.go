@@ -29,7 +29,7 @@ func TestRecListWrite(t *testing.T) {
 	}
 	w.Flush()
 	if err := w.Err(); err != nil {
-		t.Errorf("unexpected error: &v", err)
+		t.Errorf("unexpected error: %v", err)
 	}
 
 	s = NewScanner(strings.NewReader(out.String()))

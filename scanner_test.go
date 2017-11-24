@@ -55,7 +55,7 @@ var blob = `
 	descrip: "Nepturne is the eight and farthest
 		known planet from the Sun in the Solar
 		System. In the Solar System, it is the
-		fouth-largest planet by diameterm the
+		fourth-largest planet by diameterm the
 		third-most-massive planet, and the
 		densest giant planet. Neptune is not
 		visible to the unaided eye and is the
@@ -73,7 +73,7 @@ var blob = `
 		radius and fourth-largest mass in the
 		Solar System. Uranus's atmosphere is the
 		coldest planetary atmosepher in the Solar
-		System, with a mimimum temperature of 49
+		System, with a minimum temperature of 49
 		K. The Uranus system has a unique
 		configuration among giant planets because
 		its axis of rotation is tilted sideways,
